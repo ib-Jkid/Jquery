@@ -1,0 +1,162 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-image: url(blog-img3.jpg);
+    background-size: cover;
+
+}
+div {
+    width: 80%;
+    height: 400px;
+    margin-top: 10px;
+    margin-left: 10%;
+    margin-bottom: 100px;
+    position: relative;
+    background-color: rgba(155, 136, 172, 0.4);
+    
+}
+button {
+    position: absolute;
+    top: 400px;
+    background-color: brown;
+    font-weight: bolder;
+    color: white;
+    width: 100px; 
+    height: 50px;
+}
+div img {
+    width: 200px;
+    height: 200px;
+    
+
+}
+.img1 {
+    position: absolute;
+}
+.img2 {
+    top: 100px;
+    left: 200px;
+    position: absolute;
+
+}
+.img3 {
+    top: 200px;
+    left: 400px;
+    position: absolute;
+}
+.grid {
+    width: 600px;
+    height: 400px;
+}
+.grid img {
+    width: 120px;
+    height: 80px;
+    border: 1px blue;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+}
+.grid11 {
+    top: 0px;
+    left: 0px;
+}
+.grid6 {
+    top: 0px;
+    left: 120px;
+}
+.grid1 {
+    top: 0px;
+    left: 240px;
+}
+.grid8 {
+    top: 0px;
+    left: 360px;
+}
+.grid3 {
+    top: 0px;
+    left: 480px;
+}
+.grid12 {
+    top: 80px;
+    left: 0px;
+}
+.grid2 {
+    top: 80px;
+    left: 120px;
+}
+.grid7 {
+    top: 80px;
+    left: 240px;
+}
+.grid10 {
+    top: 80px;
+    left: 360px;
+}
+.grid5 {
+    top: 80px;
+    left: 480px;
+}
+.grid21 {
+    top: 160px;
+    left: 0px;
+}
+.grid17 {
+    top: 160px;
+    left: 120px;
+}
+.grid9 {
+    top: 160px;
+    left: 240px;
+}
+.grid4 {
+    top: 160px;
+    left: 360px;
+}
+.grid15 {
+    top: 160px;
+    left: 480px;
+}
+.grid22 {
+    top: 240px;
+    left: 0px;
+}
+.grid16 {
+    top: 240px;
+    left: 120px;
+}
+.grid14 {
+    top: 240px;
+    left: 240px;
+}
+.grid18 {
+    top: 240px;
+    left: 360px;
+}
+.grid20 {
+    top: 240px;
+    left: 480px;
+}
+.grid24 {
+    top: 320px;
+    left: 480px;
+}
+.grid23 {
+    top: 320px;
+    left: 120px;
+}
+.grid13 {
+    top: 320px;
+    left: 240px;
+}
+.grid19 {
+    top: 320px;
+    left: 360px;
+}
+.grid25 {
+    top: 320px;
+    left: 480px;
+    display: none;
+}
+
